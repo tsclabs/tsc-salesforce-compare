@@ -3,33 +3,33 @@
 ||TSC Agent Bot|Einstein Bots|
 |--|--|--|
 |AI + NLP|✔️|✔️|
-|Customize KB|✔️|✔️|
+|Customize Knowledge Base|✔️|✔️|
 |Semantic Engine|✔️|✔️*|
-|Transfer to Human (Live Agent)|✔️|✔️|
+|No-Code Complete Setup|✔️|❌|
 |Low-Code Available|✔️|✔️|
-|WhatsApp|✔️|✔️|
-|Facebook Messenger|✔️|✔️|
+|Dev/Specialist Supervision Needed|❌|✔️️|
+|System Independency|✔️|❌³|
+|Easy maintainement|✔️|❌|
+|WebView Support|✔️|⛔|
 |Reports & Insights|✔️|⛔¹|
 |Ready-Made Dashboard|✔️|⛔¹|
+|Advanced Analytics|⛔|⛔|
 |Ready Trained NLP|✔️|❌²|
 |Ready Trained Data|✔️|❌|
-|Custom Styles|✔️|⛔|
 |Native SF Integration|❌|✔️|
-|VIP Support|✔️|❌|
-|Full No-Code Setup|✔️|⛔|
-|WeChat|❌|✔️|
-|Telegram|✔️|⛔|
+|Issue Solving Support|✔️|⛔|
+|Custom Styles|✔️|⛔|
 |Show Images|✔️|⛔|
 |Show Videos|✔️|⛔|
 |Caroussel|✔️|⛔|
-|WebView Support|✔️|⛔|
 |Rich Text/Html Message|✔️|⛔|
-|System Dependencies|✔️|❌³|
-|Easy maintainement|✔️|❌|
-|Dev/Consultant Dependency|❌|✔️|
-|No Specialist Supervision Needed|✔️|❌|
+|Transfer to Human (Live Agent)|✔️|✔️|
+|WhatsApp|✔️|✔️|
+|Facebook Messenger|✔️|✔️|
+|Telegram|✔️|⛔|
+|WeChat|❌|✔️|
 
-\* On Sailesforce chatbot, every intent must have at least 20 variations to turn AI and Semantic Engine On. The ideal is to add 60 variations epr intention. This representas a lot of effort. 
+\* On Sailesforce chatbot, every intent must have at least 20 variations to turn AI and Semantic Engine On. The recomended amount is 200 variations per intention. This representas a lot of effort. 
 
 ¹ Needs to buy Tableau CRM with Einstein Bots, then you can view the EinsteinBotsV2 Dashboard by visiting the Analytics Studio app in the App Launcher and finally view the reports.
 
